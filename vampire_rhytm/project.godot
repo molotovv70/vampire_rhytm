@@ -12,7 +12,10 @@ config_version=5
 
 config/name="vampire_rhytm"
 config/features=PackedStringArray("4.3", "GL Compatibility")
-config/icon="res://icon.svg"
+
+[filesystem]
+
+import/blender/enabled=false
 
 [rendering]
 

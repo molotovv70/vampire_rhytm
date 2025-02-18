@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "73db91e2c6d819bd",
+            "id": "558cf590cf057eaa",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -150,13 +150,23 @@
               "icon": "lucide-list",
               "title": "Структура README"
             }
+          },
+          {
+            "id": "929a9cf3ff7489f6",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -165,11 +175,33 @@
       "canvas:Создать новый холст": false,
       "daily-notes:Сегодняшняя заметка": false,
       "templates:Вставить шаблон": false,
-      "command-palette:Открыть палитру команд": false
+      "command-palette:Открыть палитру команд": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "73db91e2c6d819bd",
+  "active": "558cf590cf057eaa",
   "lastOpenFiles": [
-    "README.md"
+    "Названия идеи.md",
+    "README.md",
+    "vampire_rhytm/assets/Pixel Crawler/Social/1Furnace.png",
+    "vampire_rhytm/world/levB1B3.tmp",
+    "vampire_rhytm/world/lev74B4.tmp",
+    "vampire_rhytm/world/lev9A3D.tmp",
+    "vampire_rhytm/menu/mai36B3.tmp",
+    "vampire_rhytm/ui/screen.glb.import",
+    "vampire_rhytm/ui/screen.glb",
+    "vampire_rhytm/world/lev8B14.tmp",
+    "vampire_rhytm/world/lev433C.tmp",
+    "vampire_rhytm/world/scrCB5B.tmp",
+    "vampire_rhytm/world/screen.glb.import",
+    "vampire_rhytm/assets/Pixel Crawler/Environment/Green Woods/Assets/Props/Trees/Tree_Model_01/Size_05.png",
+    "vampire_rhytm/assets/Pixel Crawler/Environment/Green Woods/Assets/Props/Trees/Tree_Model_01/Size_04.png",
+    "vampire_rhytm/assets/Pixel Crawler/Environment/Green Woods/Assets/Props/Trees/Tree_Model_01/Size_03.png",
+    "vampire_rhytm/assets/Pixel Crawler/Environment/Green Woods/Assets/Props/Trees/Tree_Model_01/Size_02.png",
+    "vampire_rhytm/assets/Pixel Crawler/Environment/Green Woods/Assets/Props/Vegetation/Vegetation_01.png",
+    "vampire_rhytm/assets/Pixel Crawler/Environment/Green Woods/Assets/Tiles/Tiles.png",
+    "vampire_rhytm/assets/Pixel Crawler/Enemy/Skeleton Crew/Skeleton - Warrior/Run/Run-Sheet.png",
+    "vampire_rhytm/assets/Pixel Crawler/Enemy/Skeleton Crew/Skeleton - Warrior/Idle/Idle-Sheet.png",
+    "vampire_rhytm/assets/Pixel Crawler/Enemy/Skeleton Crew/Skeleton - Warrior/Death/Death-Sheet.png"
   ]
 }
